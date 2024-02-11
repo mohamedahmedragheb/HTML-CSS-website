@@ -244,6 +244,8 @@ border: red 2px solid;
                 padding: 1rem 0;
                 text-align: center;
             }
-        
+        @media (max-width: 760px) {
+                
+            }
 
         
